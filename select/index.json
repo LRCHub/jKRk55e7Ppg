@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "命短シ夢見ヨ乙女",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T03:28:10.830978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命短シ夢見ヨ乙女",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_命短シ夢見ヨ乙女_SiLENT←NOiSE.txt"
+    }
+  ]
+}
